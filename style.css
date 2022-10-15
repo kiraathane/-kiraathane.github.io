@@ -41,18 +41,21 @@ body{
 	transition: all 0.3s;
 }
 .main{
+	font-family: ':Leeseoyun';
 	color: #c1c1c1;
 	font-size: 25px;
 	margin-top: 30px;
 	margin-bottom: 0px;
 }
 .sub1{
+	font-family: ':Leeseoyun';
 	color:  #424242;
 	font-size: 15px;
 	margin-top: 0px;
 	margin-bottom: 25px;
 }
 .sub2{
+	font-family: ':Leeseoyun';
 	color:  #424242;
 	font-size: 15px;
 	margin-top: 0px;
