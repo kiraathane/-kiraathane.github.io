@@ -28,7 +28,7 @@
 
 
 body{
-	/*background-image: url('back.png');*/
+	background-image: url('back.png');
 	background-size: cover;
 }
 .profile{
