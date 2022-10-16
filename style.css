@@ -44,7 +44,7 @@ body{
 	font-family: 'gmarketsansmedium';
 	color: #5F5F61;
 	font-size: 18px;
-	margin-top: 20px;
+	margin-top: 10px;
 	margin-bottom: 0px;
 }
 .sub1{
@@ -56,7 +56,7 @@ body{
 }
 .sub2{
 	font-family: 'Leeseoyun';
-	color:  #bdbdbd;
+	color:  #a9a9a9;
 	font-size: 15px;
 	margin-top: 0px;
 	margin-bottom: 25px;
@@ -84,16 +84,16 @@ body{
 	background-color: rgb(255 255 255 / 30%);
 	backdrop-filter: blur(3px);
 	border-radius: 10px;
-	color: rgb(20, 20,20);
+	color: #fff;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	text-decoration: none;
-	box-shadow: 0px 0px 3px rgb(0 0 0 / 30%);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.8);
 	transition: all 0.3s;
 	overflow: hidden;
-	text-shadow:0px 0px 5px rgb(255, 255, 255);
+	text-shadow:0px 0px 5px rgb(0, 0, 0);
 }
 .corps>a:hover{
 	background-color: rgb(242, 245, 247);
