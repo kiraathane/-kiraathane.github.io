@@ -103,13 +103,13 @@ body{
 }
 .corps>a:nth-child(1){
 	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('https://pbs.twimg.com/media/FfKpeysVsAAG-Kg?format=jpg&name=large');
-	background-position: 20% 80%;
-	background-size: 100%;
+	background-position: 0% 30%;
+	background-size: 120%;
 }
 .corps>a:nth-child(1):hover{
 	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('https://pbs.twimg.com/media/FfKpeysVsAAG-Kg?format=jpg&name=large');
-	background-position: 20% 80%;
-	background-size: 140%;
+	background-position: 0% 30%;
+	background-size: 150%;
 }
 .corps>a:nth-child(3){
 	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_rVvyxTW3_3c0b4311fa3897bf803e23f8b4f2a432ba45b360.jpg');
@@ -118,7 +118,7 @@ body{
 }
 .corps>a:nth-child(3):hover{
 	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_rVvyxTW3_3c0b4311fa3897bf803e23f8b4f2a432ba45b360.jpg');
-	background-position: c35% 50%;
+	background-position: 35% 50%;
 	background-size: 225%;
 }
 .corps>a:nth-child(5){
@@ -138,7 +138,7 @@ body{
 }
 .corps>a:nth-child(7):hover{
 	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_ChaVfFwb_bd9c400b77d81f9f325ff046530700a48928fbba.JPG');
-	background-position: 20% 70%;
+	background-position: 30% 70%;
 	background-size: 200%;
 }
 .corps>a:nth-child(9){
@@ -148,7 +148,7 @@ body{
 }
 .corps>a:nth-child(9):hover{
 	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://eigen-lab.net/avo/data/file/gallery/217461634_t96GUmLp_9bfbb65847ce7faf8e041a39488a27f9bbeb2b5d.png');
-	background-position: 75% 72%;
+	background-position: 80% 72%;
 	background-size: 150%;
 }
 .corps>a:nth-child(11){
