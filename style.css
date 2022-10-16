@@ -103,7 +103,7 @@ body{
 }
 .corps>a:nth-child(1){
 	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('https://pbs.twimg.com/media/FfKpeysVsAAG-Kg?format=jpg&name=large');
-	background-position: 0% 30%;
+	background-position: 10% 30%;
 	background-size: 120%;
 }
 .corps>a:nth-child(1):hover{
