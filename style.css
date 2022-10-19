@@ -63,7 +63,7 @@ body{
 }
 #tete{
 	width: 300px;
-	margin: 20px auto 0px auto;
+	margin: 20px auto -10px auto;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -78,9 +78,8 @@ body{
  	width: 300px;
 	height: 30px;
 	font-size: 14px;
-	padding-left:45%;
-	padding-right:45%;
-	color:#a5a3a3;
+	trnasform:translate(80px, 0px);
+	color: #a5a3a3;
 }
 .corps{
 	margin: 10px auto 0px auto;
