@@ -81,6 +81,10 @@ body{
 	transform:translate(80px, 0px);
 	color: #a5a3a3;
 }
+
+.cou a{
+	text-decoration:none;
+}
 .corps{
 	margin: 10px auto 0px auto;
 	justify-content: center;
