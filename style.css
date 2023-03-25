@@ -35,7 +35,7 @@ body{
 	width: 150px;
 	height: 150px;
 	border-radius: 100%;
-	background-image: url('http://eigen-lab.net/avo/data/file/log/2155339434_zVPlLo6y_a8960c00eb75a1253737978686f66c794a3849a5.gif');
+	background-image: url('http://oreocake.ivyro.net/img/kirakira.gif');
 	background-position: 40%;
 	background-size: cover;
 	transition: all 0.3s;
@@ -119,62 +119,62 @@ body{
 	text-shadow:0px 0px 5px rgb(209, 222, 232);
 }
 .corps>a:nth-child(1){
-	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('https://pbs.twimg.com/media/FfKpeysVsAAG-Kg?format=jpg&name=large');
+	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://oreocake.ivyro.net/data/file/gallery/1225000479_FsC2W3VN_e76671080da9a76b78768590af123b52b4e4de74.JPG');
 	background-position: 10% 30%;
 	background-size: 120%;
 }
 .corps>a:nth-child(1):hover{
-	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('https://pbs.twimg.com/media/FfKpeysVsAAG-Kg?format=jpg&name=large');
+	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://oreocake.ivyro.net/data/file/gallery/1225000479_FsC2W3VN_e76671080da9a76b78768590af123b52b4e4de74.JPG');
 	background-position: 0% 30%;
 	background-size: 150%;
 }
 .corps>a:nth-child(3){
-	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_rVvyxTW3_3c0b4311fa3897bf803e23f8b4f2a432ba45b360.jpg');
+	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://oreocake.ivyro.net/data/file/gallery/1206563414_rVvyxTW3_3c0b4311fa3897bf803e23f8b4f2a432ba45b360.jpg');
 	background-position: 35% 50%;
 	background-size: 180%;
 }
 .corps>a:nth-child(3):hover{
-	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_rVvyxTW3_3c0b4311fa3897bf803e23f8b4f2a432ba45b360.jpg');
+	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://oreocake.ivyro.net/data/file/gallery/1206563414_rVvyxTW3_3c0b4311fa3897bf803e23f8b4f2a432ba45b360.jpg');
 	background-position: 35% 50%;
 	background-size: 225%;
 }
 .corps>a:nth-child(5){
-	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_LFYAjSzM_e3d6c29b84c8635df0e1b33e990d023f2b61965f.png');
+	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://oreocake.ivyro.net/data/file/gallery/1225000479_fbK7sUqc_8cb358230f0b2633b6fa0e4677254f9d2a81b6b8.PNG');
 	background-position: 30% 50%;
 	background-size: 250%;
 }
 .corps>a:nth-child(5):hover{
-	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_LFYAjSzM_e3d6c29b84c8635df0e1b33e990d023f2b61965f.png');
+	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://oreocake.ivyro.net/data/file/gallery/1225000479_fbK7sUqc_8cb358230f0b2633b6fa0e4677254f9d2a81b6b8.PNG');
 	background-position: 30% 50%;
 	background-size: 300%;
 }
 .corps>a:nth-child(7){
-	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_ChaVfFwb_bd9c400b77d81f9f325ff046530700a48928fbba.JPG');
+	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://oreocake.ivyro.net/data/file/gallery/1206563414_g09O4G6a_1cb21320df2895c490e52addebbe0d16168ca9fc.png');
 	background-position: 30% 70%;
 	background-size: 150%;
 }
 .corps>a:nth-child(7):hover{
-	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_ChaVfFwb_bd9c400b77d81f9f325ff046530700a48928fbba.JPG');
+	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://oreocake.ivyro.net/data/file/gallery/1206563414_g09O4G6a_1cb21320df2895c490e52addebbe0d16168ca9fc.png');
 	background-position: 30% 70%;
 	background-size: 200%;
 }
 .corps>a:nth-child(9){
-	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://eigen-lab.net/avo/data/file/gallery/217461634_t96GUmLp_9bfbb65847ce7faf8e041a39488a27f9bbeb2b5d.png');
+	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://oreocake.ivyro.net/data/file/gallery/1236930964_cArjzqdW_cbe7b1f35128318ffc732ac972044e18d1897a9d.PNG');
 	background-position: 75% 72%;
 	background-size: 120%;
 }
 .corps>a:nth-child(9):hover{
-	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://eigen-lab.net/avo/data/file/gallery/217461634_t96GUmLp_9bfbb65847ce7faf8e041a39488a27f9bbeb2b5d.png');
+	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://oreocake.ivyro.net/data/file/gallery/1236930964_cArjzqdW_cbe7b1f35128318ffc732ac972044e18d1897a9d.PNG');
 	background-position: 65% 72%;
 	background-size: 150%;
 }
 .corps>a:nth-child(11){
-	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_8VzSoEp3_43b3b6c59cfd3ef8316cb1e2b029dd32112471c7.jpeg');
+	background-image:linear-gradient( rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.2)),url('http://oreocake.ivyro.net/data/file/gallery/1206563414_jJVzqc5F_97e756be6f1611423010f24797b1c8b3071c4dd2.jpg');
 	background-position: 50% 24%;
 	background-size: 250%;
 }
 .corps>a:nth-child(11):hover{
-	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://eigen-lab.net/avo/data/file/gallery/1206563414_8VzSoEp3_43b3b6c59cfd3ef8316cb1e2b029dd32112471c7.jpeg');
+	background-image: linear-gradient( rgba(242, 245, 247, 0.5),rgba(242, 245, 247, 0.5)),url('http://oreocake.ivyro.net/data/file/gallery/1206563414_jJVzqc5F_97e756be6f1611423010f24797b1c8b3071c4dd2.jpg');
 	background-position: 50% 24%;
 	background-size: 300%;
 }
